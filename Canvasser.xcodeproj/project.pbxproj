@@ -14,6 +14,7 @@
 		C6EA499D1AA7D96B00A9CA84 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6EA499C1AA7D96B00A9CA84 /* Images.xcassets */; };
 		C6EA49A01AA7D96B00A9CA84 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C6EA499E1AA7D96B00A9CA84 /* LaunchScreen.xib */; };
 		C6EA49AC1AA7D96B00A9CA84 /* CanvasserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6EA49AB1AA7D96B00A9CA84 /* CanvasserTests.swift */; };
+		C6EA49B61AA7DAB200A9CA84 /* AddressTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6EA49B51AA7DAB200A9CA84 /* AddressTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		C6EA49A51AA7D96B00A9CA84 /* CanvasserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CanvasserTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6EA49AA1AA7D96B00A9CA84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6EA49AB1AA7D96B00A9CA84 /* CanvasserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasserTests.swift; sourceTree = "<group>"; };
+		C6EA49B51AA7DAB200A9CA84 /* AddressTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddressTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				C6EA49921AA7D96B00A9CA84 /* AppDelegate.swift */,
 				C6EA49971AA7D96B00A9CA84 /* ViewController.swift */,
 				C6EA49991AA7D96B00A9CA84 /* Main.storyboard */,
+				C6EA49B51AA7DAB200A9CA84 /* AddressTVC.swift */,
 				C6EA499C1AA7D96B00A9CA84 /* Images.xcassets */,
 				C6EA499E1AA7D96B00A9CA84 /* LaunchScreen.xib */,
 				C6EA49941AA7D96B00A9CA84 /* Canvasser.xcdatamodeld */,
@@ -217,6 +220,7 @@
 			files = (
 				C6EA49981AA7D96B00A9CA84 /* ViewController.swift in Sources */,
 				C6EA49961AA7D96B00A9CA84 /* Canvasser.xcdatamodeld in Sources */,
+				C6EA49B61AA7DAB200A9CA84 /* AddressTVC.swift in Sources */,
 				C6EA49931AA7D96B00A9CA84 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
