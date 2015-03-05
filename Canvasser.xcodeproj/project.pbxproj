@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		C6EA49931AA7D96B00A9CA84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6EA49921AA7D96B00A9CA84 /* AppDelegate.swift */; };
 		C6EA49961AA7D96B00A9CA84 /* Canvasser.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C6EA49941AA7D96B00A9CA84 /* Canvasser.xcdatamodeld */; };
-		C6EA49981AA7D96B00A9CA84 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6EA49971AA7D96B00A9CA84 /* ViewController.swift */; };
 		C6EA499B1AA7D96B00A9CA84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6EA49991AA7D96B00A9CA84 /* Main.storyboard */; };
 		C6EA499D1AA7D96B00A9CA84 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6EA499C1AA7D96B00A9CA84 /* Images.xcassets */; };
 		C6EA49A01AA7D96B00A9CA84 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C6EA499E1AA7D96B00A9CA84 /* LaunchScreen.xib */; };
@@ -32,7 +31,6 @@
 		C6EA49911AA7D96B00A9CA84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6EA49921AA7D96B00A9CA84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6EA49951AA7D96B00A9CA84 /* Canvasser.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Canvasser.xcdatamodel; sourceTree = "<group>"; };
-		C6EA49971AA7D96B00A9CA84 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C6EA499A1AA7D96B00A9CA84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C6EA499C1AA7D96B00A9CA84 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C6EA499F1AA7D96B00A9CA84 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				C6EA49921AA7D96B00A9CA84 /* AppDelegate.swift */,
-				C6EA49971AA7D96B00A9CA84 /* ViewController.swift */,
 				C6EA49991AA7D96B00A9CA84 /* Main.storyboard */,
 				C6EA49B51AA7DAB200A9CA84 /* AddressTVC.swift */,
 				C6EA499C1AA7D96B00A9CA84 /* Images.xcassets */,
@@ -218,7 +215,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6EA49981AA7D96B00A9CA84 /* ViewController.swift in Sources */,
 				C6EA49961AA7D96B00A9CA84 /* Canvasser.xcdatamodeld in Sources */,
 				C6EA49B61AA7DAB200A9CA84 /* AddressTVC.swift in Sources */,
 				C6EA49931AA7D96B00A9CA84 /* AppDelegate.swift in Sources */,
