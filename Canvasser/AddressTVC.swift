@@ -12,6 +12,7 @@ class AddressTVC: UITableViewController
 {
     var addressList = [String]()
     
+    
     override func viewDidLoad() {
         addressList.append("Brendan's House")
         addressList.append("Cameron's House")
@@ -19,6 +20,8 @@ class AddressTVC: UITableViewController
         addressList.append("Bob's House")
         addressList.append("Jane's House")
         addressList.append("John's House")
+        
+        self.splitViewController?.preferredDisplayMode = UISplitViewControllerDisplayMode.AllVisible
     }
         
     override func numberOfSectionsInTableView(tableView: UITableView) -> Int {
